@@ -1,2 +1,2 @@
-# Scratch
-Projetos criados pelos alunos no Scratch
+# P5
+Projetos criados pelos alunos no P5
